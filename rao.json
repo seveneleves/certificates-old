@@ -1,0 +1,26 @@
+{
+  "name": "CCTP mon amour",
+  "validity": true,
+  "category": "Business",
+  "description": "Pour avoir répondu à un appel d'offres ENEDIS",
+  "year": 2019,
+  "manager": "BDU",
+  "unit": "LCO",
+  "skills": [
+    {
+      "type": "Capacités rédactionnelles",
+      "grade": 4,
+      "comment": "Excellente rédaction"
+    },
+    {
+      "type": "Capacités de synthèse",
+      "grade": 3,
+      "comment": "Bon esprit de synthèse"
+    },
+    {
+      "type": "Relecture",
+      "grade": 4,
+      "comment": "Un lynx !"
+    }
+  ]
+}
