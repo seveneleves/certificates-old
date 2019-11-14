@@ -1,0 +1,27 @@
+{
+  "name": "Merci le CSE !",
+  "owner": "FMI",
+  "validity": true,
+  "category": "Vie du cabinet",
+  "description": "Pour avoir effectué une activité proposée par le CSE",
+  "year": 2020,
+  "manager": "N/A",
+  "unit": "N/A",
+  "skills": [
+    {
+      "type": "N/A",
+      "grade": "N/A",
+      "comment": "N/A"
+    },
+    {
+      "type": "N/A",
+      "grade": "N/A",
+      "comment": "N/A"
+    },
+    {
+      "type": "N/A",
+      "grade": "N/A",
+      "comment": "N/A"
+    }
+  ]
+}
