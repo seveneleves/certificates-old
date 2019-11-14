@@ -1,0 +1,27 @@
+{
+  "name": "Passion COPIL",
+  "owner": "PLE",
+  "validity": true,
+  "category": "Missions",
+  "description": "Pour avoir animé un COPIL métier",
+  "year": 2020,
+  "manager": "FMI",
+  "unit": "BCA",
+  "skills": [
+    {
+      "type": "Capacités de synthèse",
+      "grade": 4,
+      "comment": "Présentation synthétique"
+    },
+    {
+      "type": "Aisance orale",
+      "grade": 4,
+      "comment": "Aisance à l'oral, COPIL dynamique"
+    },
+    {
+      "type": "N/A",
+      "grade": "N/A",
+      "comment": "N/A"
+    }
+  ]
+}

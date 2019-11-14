@@ -1,0 +1,27 @@
+{
+  "name": "Ka-ching !",
+  "owner": "PLE",
+  "validity": false,
+  "category": "Business",
+  "description": "Pour avoir contribué à l'ouverture d'un compte client",
+  "year": "",
+  "manager": "",
+  "unit": "",
+  "skills": [
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    },
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    },
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    }
+  ]
+}
