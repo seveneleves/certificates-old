@@ -1,8 +1,9 @@
 {
   "name": "Passion COPIL",
+  "owner": "PLE",
   "validity": true,
   "category": "Missions",
-  "description": "Pour avoir animé un COPIL métier au CISIRH",
+  "description": "Pour avoir animé un COPIL métier",
   "year": 2020,
   "manager": "FMI",
   "unit": "BCA",
