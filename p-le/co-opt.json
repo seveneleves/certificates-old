@@ -1,0 +1,27 @@
+{
+  "name": "Toi, mon ami",
+  "owner": "PLE",
+  "validity": false,
+  "category": "Collaborateur",
+  "description": "Pour avoir coopté un collaborateur",
+  "year": "",
+  "manager": "",
+  "unit": "",
+  "skills": [
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    },
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    },
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    }
+  ]
+}
