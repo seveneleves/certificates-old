@@ -1,7 +1,7 @@
 {
   "name": "Grand cœur",
   "owner": "PLE",
-  "validity": "",
+  "validity": true,
   "category": "Vie du cabinet",
   "description": "Pour effectuer l'arrondi sur salaire",
   "year": 2021,
