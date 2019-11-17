@@ -1,0 +1,27 @@
+{
+  "name": "Linkedin Wizard",
+  "owner": "PLE",
+  "validity": true,
+  "category": "Vie du cabinet",
+  "description": "Pour avoir partagé une publication Linkedin du cabinet",
+  "year": 2020,
+  "manager": "",
+  "unit": "",
+  "skills": [
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    },
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    },
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    }
+  ]
+}
