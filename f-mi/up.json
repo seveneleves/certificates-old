@@ -1,0 +1,27 @@
+{
+  "name": "1 UP",
+  "owner": "FMI",
+  "validity": true,
+  "category": "Collaborateur",
+  "description": "Pour son évolution au poste de Manager associé",
+  "year": 2018,
+  "manager": "",
+  "unit": "BCA",
+  "skills": [
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    },
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    },
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    }
+  ]
+}
