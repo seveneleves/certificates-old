@@ -1,0 +1,27 @@
+{
+  "name": "1 UP",
+  "owner": "PLE",
+  "validity": true,
+  "category": "Collaborateur",
+  "description": "Pour son évolution au poste de Consultant confirmé",
+  "year": 2020,
+  "manager": "FMI",
+  "unit": "BCA",
+  "skills": [
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    },
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    },
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    }
+  ]
+}
