@@ -1,0 +1,27 @@
+{
+  "name": "Grand cœur",
+  "owner": "PLE",
+  "validity": true,
+  "category": "Vie du cabinet",
+  "description": "Pour avoir coopté un collaborateur",
+  "year": 2017,
+  "manager": "",
+  "unit": "BCA",
+  "skills": [
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    },
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    },
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    }
+  ]
+}
