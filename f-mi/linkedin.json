@@ -1,0 +1,27 @@
+{
+  "name": "Linkedin Wizard",
+  "owner": "FMI",
+  "validity": false,
+  "category": "Vie du cabinet",
+  "description": "Pour avoir partagé une publication Linkedin du cabinet",
+  "year": "",
+  "manager": "",
+  "unit": "",
+  "skills": [
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    },
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    },
+    {
+      "type": "",
+      "grade": "",
+      "comment": ""
+    }
+  ]
+}
